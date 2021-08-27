@@ -1,5 +1,4 @@
-﻿# TO-DO LIST 
-## Spring Project
+﻿# TO-DO LIST - Spring Project
 
 ## Technology Stack
 - Java 16
