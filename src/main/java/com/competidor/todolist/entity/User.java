@@ -3,7 +3,7 @@ package com.competidor.todolist.entity;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collation = "user")
+@Document(collection = "user")
 public class User {
 
     @Id
