@@ -1,8 +1,8 @@
 ﻿# TO-DO LIST - Spring Project
 
 ## Technology Stack
-- Java 16
+- Java 15
+- Spring Boot - Ver 2.5.4
 - MongoDB
-- Maven
-- Spring Boot - Ver 2.5.1
+- Gradle
 
