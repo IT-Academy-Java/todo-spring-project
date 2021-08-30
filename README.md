@@ -13,8 +13,7 @@
 
 ## Todo API endpoints
 
-### Get All Todos
-
+**Get All Todos**
 ----
 Returns json data with all todos.
 
