@@ -6,7 +6,7 @@
 - MongoDB
 - Gradle
 
-## Documentation
+**Documentation**
 ----
 ## Rest Endpoint:
 `http://localhost:8080/api/v1`
